@@ -1,6 +1,7 @@
 ---
 name: kwant
 link: https://kwant.si
+image: "https://kwant.si/assets/og/home.png"
 tags: [desktop, web, remote, self-hosted, local, skills, routines, connectors]
 ---
 

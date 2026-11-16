@@ -1,6 +1,7 @@
 ---
 name: "Coralogix"
 link: "https://coralogix.com/"
+image: "https://coralogix.com/assets/pages/home/og.jpg"
 tags: [mcp, skill, grok-bot]
 ---
 

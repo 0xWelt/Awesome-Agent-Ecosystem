@@ -1,6 +1,7 @@
 ---
 name: "Wavegrain"
 link: "https://wavegrain.com/"
+image: "https://wavegrain.com/opengraph-image"
 tags: [mcp, skill]
 ---
 

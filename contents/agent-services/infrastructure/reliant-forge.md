@@ -1,6 +1,7 @@
 ---
 name: "Reliant Forge"
 link: "https://reliantlabs.io/products/forge"
+image: "https://reliantlabs.io/og-image.png"
 tags: [cli, mcp]
 ---
 
