@@ -1,5 +1,5 @@
 ---
-name: "Buddy.Works"
+name: "Buddy Works"
 link: "https://buddy.works/"
 image: "https://buddy.works/assets/images/og-social-image.png"
 tags: [mcp, skill, cli]
