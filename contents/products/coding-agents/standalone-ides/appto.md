@@ -4,4 +4,4 @@ link: https://appto.store/
 image: "https://appto.store/img/en/home.jpg"
 ---
 
-Mac app that takes an iPhone app from idea to the App Store on your own Claude Code or Codex subscription: niche research on App Store data, design, SwiftUI code, screenshots and store text in 39 languages. From $9.99/mo.
+Mac app that takes an iPhone app from idea to the App Store on your own Claude Code or Codex subscription: niche research on App Store data, design, SwiftUI code, screenshots and store text in 39 languages. From $14.99/mo.
