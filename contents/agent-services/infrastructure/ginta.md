@@ -1,6 +1,7 @@
 ---
 name: "Ginta"
 link: "https://ginta.app/"
+image: "https://ginta.app/og/home.jpg"
 tags: [mcp]
 ---
 
