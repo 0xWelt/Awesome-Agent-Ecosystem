@@ -1,6 +1,7 @@
 ---
 name: "deed.page"
 link: "https://deed.page"
+image: "https://deed.page/og.png"
 tags: [skill]
 ---
 

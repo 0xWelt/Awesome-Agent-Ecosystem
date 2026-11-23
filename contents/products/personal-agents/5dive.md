@@ -1,6 +1,7 @@
 ---
 name: 5dive
 link: https://5dive.ai
+image: https://5dive.ai/api/og
 tags: [desktop, mobile, web, remote, self-hosted, local, skills, routines]
 ---
 
