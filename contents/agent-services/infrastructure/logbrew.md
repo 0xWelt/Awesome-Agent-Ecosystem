@@ -1,7 +1,6 @@
 ---
 name: "LogBrew"
 link: "https://logbrew.co/"
-image: "https://logbrew.co/brand/github-social-preview.png"
 tags: [mcp, skill, cli]
 ---
 
