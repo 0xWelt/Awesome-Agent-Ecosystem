@@ -1,7 +1,6 @@
 ---
 name: "QuestionPunk"
 link: "https://www.questionpunk.com/"
-image: "https://www.questionpunk.com/opengraph-image"
 tags: [mcp]
 ---
 
